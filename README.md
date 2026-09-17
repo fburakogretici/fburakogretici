@@ -21,7 +21,7 @@
 `SQL Server` `PostgreSQL` `MySQL` `Supabase` `MongoDB`
 
 **Tools & Automation:** 
-`Visual Studio` `Git` `Postman` `n8n`
+`Visual Studio` `Git` `Postman` `n8n` `Docker`
 
 ### 📫 Connect with Me
 
